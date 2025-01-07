@@ -22,11 +22,11 @@ class QuizInterface:
         self.canvas.grid(column=0, row=1, columnspan=2, pady=50)
         #
         # # button
-        true_image = PhotoImage(file="true.png")
+        true_image = PhotoImage(file="Images\true.png")
         self.right_button = tkinter.Button(image=true_image, highlightthickness=0,
                                            command=self.answer_is_right)
         self.right_button.grid(column=0, row=2)
-        wrong_image = PhotoImage(file="false.png")
+        wrong_image = PhotoImage(file="Images\false.png")
         self.wrong_button = tkinter.Button(image=wrong_image, highlightthickness=0,
                                            command=self.answer_is_wrong)
         self.wrong_button.grid(column=1, row=2)
