@@ -1,7 +1,12 @@
-from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain
 from ui import QuizInterface
+
+class Question:
+
+    def __init__(self, q_text, q_answer):
+        self.text = q_text
+        self.answer = q_answer
 
 question_bank = []
 for question in question_data:
