@@ -15,7 +15,7 @@ This project focuses on using Python to interact with external APIs, retrieve dy
 
 ### 🛠️ Tech Stack  
 - **Programming Language**: Python  
-- **Libraries**: `requests`, `json`, and others as needed  
+- **Libraries**: `requests`, `json`, and `html`
 
 ### 💡 Usage Instructions  
 1. Clone the repository:  
