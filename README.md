@@ -20,8 +20,8 @@ This project focuses on using Python to interact with external APIs, retrieve dy
 ### 💡 Usage Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/day34-python-project.git
-   cd day34-python-project
+   git clone [https://github.com/Dhanush0042/Yes-or-No-Challenge.git]
+   cd Yes-or-No-Challenge
    ```  
 2. Install required packages:  
    ```bash
@@ -33,6 +33,3 @@ This project focuses on using Python to interact with external APIs, retrieve dy
    ```  
 
 ---
-
-Let me know if you’d like to emphasize any additional aspects of the project! 😊
-
